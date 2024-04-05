@@ -1,0 +1,38 @@
+{
+    "name": "Ÿ",
+    "website": "https://yoracle.ai/",
+    "description": "Real-Time AI-powered market data oracle. Empowering Users With Cutting-Edge AI Models For Unmatched, Real-Time Market Analytics & Insights.",
+    "explorer": "https://etherscan.io/token/0x477a3d269266994f15e9c43a8d9c0561c4928088",
+    "whitepaper": "https://docs.yoracle.ai/",
+    "symbol": "YAI",
+    "type": "ERC-20",
+    "decimals": 18,
+    "id": "0x477a3d269266994f15e9c43a8d9c0561c4928088",
+    "status": "active",
+    "tags": [
+        "dapp"
+    ],
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/yAIoracle"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/yai_erc"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.yoracle.ai/"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/yoracle-ai/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/y"
+        }
+    ]
+}
+
